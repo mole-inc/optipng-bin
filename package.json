@@ -1,6 +1,6 @@
 {
 	"name": "@mole-inc/optipng-bin",
-	"version": "6.0.0",
+	"version": "7.0.0",
 	"description": "OptiPNG wrapper that makes it seamlessly",
 	"license": "MIT",
 	"repository": {
