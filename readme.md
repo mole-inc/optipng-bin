@@ -4,8 +4,8 @@
 
 You probably want [`imagemin-optipng`](https://github.com/mole-inc/imagemin-optipng) instead.
 
-[![Downloads](https://badgen.net/npm/dm/@mole-inc/optipng)](https://www.npmjs.com/package/@mole-inc/optipng)
-[![Version](https://badgen.net/npm/v/@mole-inc/optipng)](https://www.npmjs.com/package/@mole-inc/optipng)
+[![Downloads](https://badgen.net/npm/dm/@mole-inc/optipng-bin)](https://www.npmjs.com/package/@mole-inc/optipng-bin)
+[![Version](https://badgen.net/npm/v/@mole-inc/optipng-bin)](https://www.npmjs.com/package/@mole-inc/optipng-bin)
 
 ## Install
 
@@ -45,5 +45,5 @@ $ optipng --help
 
 This is a fork of [imagemin/optipng-bin](https://github.com/imagemin/optipng-bin) licensed under the MIT License.
 
-see license file.
+see license file.<br>
 OptiPNG is licensed under the [zlib license](http://optipng.sourceforge.net/license.txt).
